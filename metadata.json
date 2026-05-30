@@ -1,0 +1,8 @@
+{
+  "name": "Johanna Pallo - Servicios Profesionales",
+  "description": "Página de ventas y consultoría profesional interactiva para el despacho de la Tlga. Johanna Pallo, con pre-diagnóstico de casos guiado por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
